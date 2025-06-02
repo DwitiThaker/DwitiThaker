@@ -3,10 +3,10 @@
 Hi! I'm Dwiti Thaker, an aspiring AI Engineer with hands-on projects in Machine Learning, NLP, and Computer Vision. Passionate about solving real-world problems and continuously learning.
 
 ## 🚀 Machine Learning Projects
-- [🩺 Health Insurance Prediction](https://github.com/DwitiThaker/health_insurance_prediction)
-- [📈 Stock Forecasting with Prophet](https://github.com/DwitiThaker/stock_forecasting_prophet)
-- [📊 Stock Price Prediction (LSTM + ML)](https://github.com/DwitiThaker/stock_price_prediction_ml_lstm)
-- [🦠 Disease Prediction using ML](https://github.com/DwitiThaker/disease_predictionml)
+- [🩺 Health Insurance Prediction](https://github.com/DwitiThaker/ds_portfolio/tree/main/Health-Insurance)
+- [📈 Stock Forecasting with Prophet](https://github.com/DwitiThaker/ds_portfolio/tree/main/prophet-stock)
+- [📊 Stock Price Prediction (LSTM + ML)](https://github.com/DwitiThaker/ds_portfolio/tree/main/Stock_price_prediction)
+- [🦠 Disease Prediction using ML](https://github.com/DwitiThaker/ds_portfolio/tree/main/disease_prediction)
 - [✂️ Text Summarization using nlp](https://github.com/DwitiThaker/ds_portfolio/tree/main/Text_Summarization)
 
 
