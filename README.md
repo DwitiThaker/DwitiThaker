@@ -49,14 +49,16 @@ const dwiti = {
 
 ### 🎯 Smart Daily Target Generator
 
+🔗 <https://smart-daily-target-generator.netlify.app/>
+
 AI-powered backend system generating **personalized UPSC study plans**.
 
 **Key Features**
 
-- Personalized daily targets\
-- Weak topic detection\
-- Performance-based prioritization\
-- Time-aware scheduling\
+- Personalized daily targets
+- Weak topic detection
+- Performance-based prioritization
+- Time-aware scheduling
 - FastAPI backend architecture
 
 Goal → Help students maintain **consistent preparation discipline**
@@ -71,9 +73,9 @@ Platform helping students **prepare for technical placements**.
 
 **My Contributions**
 
-- Backend development\
-- Feature implementation\
-- API logic\
+- Backend development
+- Feature implementation
+- API logic
 - Git collaboration workflow
 
 This project strengthened my **team development experience.**
