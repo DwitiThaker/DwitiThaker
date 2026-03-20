@@ -30,9 +30,6 @@ const dwiti = {
     currentlyBuilding: [
         "Smart Daily Target Generator",
         "Placement Hub (Collaborative)",
-        "Hybrid RAG System",
-        "Reflexion Agent",
-        "MCP Tools"
     ]
 }
 ```
@@ -89,29 +86,25 @@ This project strengthened my **team development experience.**
 🧠 AI Systems I Build
 =====================
 
-### 🔎 Retrieval-Augmented Generation
+### 🔎 Retrieval-Augmented Generation (RAG)
 
-User Query\
-   ↓\
-Hybrid Retrieval (BM25 + Vector Search)\
-   ↓\
-Context Ranking\
-   ↓\
-LLM Reasoning\
-   ↓\
-Structured Response
+**Pipeline Flow:**
 
-### 🤖 AI Agents
+> User Query\
+> → Hybrid Retrieval *(BM25 + Vector Search)*\
+> → Context Ranking\
+> → LLM Reasoning\
+> → **Structured Response**
 
-Task\
- ↓\
-LLM Planning\
- ↓\
-Tool Usage\
- ↓\
-Reflection\
- ↓\
-Improved Output
+### 🤖 AI Agent Workflow
+
+**Execution Loop:**
+
+> Task\
+> → LLM Planning\
+> → Tool Usage\
+> → Reflection\
+> → **Improved Output**
 
 ### ⚙️ Intelligent Backend Systems
 
